@@ -1,5 +1,6 @@
 # High-Level Architecture
-![new drawio](https://github.com/GayashanDeshapriya/HireX/assets/94686812/3be2baf9-002b-402a-92dc-84cb0cc0c427)
+![High level Architecture](https://github.com/GayashanDeshapriya/HireX/assets/94686812/b8517e0c-48d0-4dc0-bb39-8b8f8d946413)
 
 # Low-Level Architecture
-![Low Level Architecture drawio](https://github.com/GayashanDeshapriya/HireX/assets/94686812/25557b43-5c07-485c-8bb3-b306d3cfb781)
+![Low Level Architecture drawio](https://github.com/GayashanDeshapriya/HireX/assets/94686812/8cf2d159-818b-4549-8263-8ac5ddb9b081)
+
