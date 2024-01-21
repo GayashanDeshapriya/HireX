@@ -1,4 +1,4 @@
-# HireX
+# Project- 02 (HireX)
 - HireX promises an innovative approach to job hiring. The AI-driven platform streamlines applications and the Large Language Model (LLM) ensures precise CV evaluation with real-time feedback. They were excited about the prospect of transforming hiring processes with cutting-edge technology!
   
 # High-Level Architecture
